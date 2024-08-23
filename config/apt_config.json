@@ -1,0 +1,14 @@
+{
+    "lateral_movement": {
+        "enabled": true,
+        "techniques": ["Pass-the-Hash", "Remote Services"]
+    },
+    "persistence": {
+        "enabled": true,
+        "techniques": ["Registry Run Keys", "Startup Folder"]
+    },
+    "data_exfiltration": {
+        "enabled": true,
+        "methods": ["HTTPS", "FTP"]
+    }
+}
