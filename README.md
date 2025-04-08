@@ -3,7 +3,7 @@
 ---
 
 ### Overviews
-The APT Simulation Tool replicates the behavior of Advanced Persistent Threats (APTs) within a controlled environment. This project helps cybersecurity professionals test and enhance their detection and response strategies against sophisticated cyberattack.
+The APT Simulation Tool replicates the behavior of Advanced Persistent Threats (APTs) within a controlled environment. This project helps cybersecurity professionals test and enhance their detection and response strategies against sophisticated cyberattacks.
 
 ---
 
